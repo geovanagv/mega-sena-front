@@ -1,0 +1,36 @@
+{
+  "name": "mega-sena-front",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "caniuse-lite": "^1.0.30001655",
+    "client-only": "^0.0.1",
+    "glob-to-regexp": "^0.4.1",
+    "graceful-fs": "^4.2.11",
+    "js-tokens": "^4.0.0",
+    "loose-envify": "^1.4.0",
+    "nanoid": "^3.3.7",
+    "next": "^13.5.6",
+    "picocolors": "^1.0.1",
+    "postcss": "^8.4.31",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "scheduler": "^0.23.2",
+    "source-map-js": "^1.2.0",
+    "streamsearch": "^1.1.0",
+    "styled-jsx": "^5.1.1",
+    "tslib": "^2.7.0",
+    "watchpack": "^2.4.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
